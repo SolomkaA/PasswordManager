@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Password Manager</string>
+    <string name="addButton">Add</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="passwordRepeat">Repeat password</string>
+    <string name="okButton">Ok</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="wrongPass">Wrong Password</string>
+    <string name="emptyName">Empty Name</string>
+    <string name="enterMasterPassword">Enter Master Password</string>
+    <string name="enter8OrMoreCharacters">Enter 8 Or More Characters</string>
+    <string name="shortPassword">Short Password</string>
+</resources>
